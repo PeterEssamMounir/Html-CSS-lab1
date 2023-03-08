@@ -1,0 +1,28 @@
+
+header > div {
+    display: flex;
+}
+
+header > div {
+    justify-content: center;
+    color: red;
+}
+
+
+header > img {
+    width: 100px;
+}
+
+u {
+    color: red;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+}
+
+.border-bottom {
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
