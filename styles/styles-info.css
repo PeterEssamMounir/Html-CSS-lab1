@@ -1,0 +1,53 @@
+
+nav {
+    display: flex;
+    background-color: #5A5A5A;
+    padding: 0px 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+nav div a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+    font-size: large;
+    padding: 14px;
+
+}
+
+nav div a:hover {
+    background-color: red;
+}
+
+header > div {
+    color: red;
+}
+
+
+header nav img {
+    width: 100px;
+}
+
+u {
+    color: red;
+}
+.div-container {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+
+
+.middle {
+    display: flex;
+    justify-content: center;
+}
+
+.border-bottom {
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
+footer > div > p {
+    color: blue;
+}

@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+header nav {
+    display: flex;
+    background-color: #5A5A5A;
+    padding: 0px 20px;
+}
+header nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+    font-size: large;
+    padding: 20px;
+}
+
+nav a:hover {
+    background-color: red;
+}
+table {
+    border: 2px solid #E0F0E8;
+    background-color: #F5FAF9;
+    margin-top: 10px;
+}
+
+
+.input-button {
+    width: 100px;
+}
+.table-title {
+    color: green;
+    font-size: larger;
+}
+.table-head-box {
+    border: 1px dotted green;
+    width: 100%;
+}
+.frow {
+    background-color: #E0F0E8;
+}
+.input-width {
+    width: 90%;
+}
